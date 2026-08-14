@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ajay+V+Manoj;Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Tableau+%7C+Jira;Transforming+Data+Into+Business+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I+am+Ajay+V+Manoj;Data+Analyst+%7C+Business+Analyst;Transforming+Data+into+actionable+Business+Insight" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,15 +23,11 @@ class Analyst:
     def __init__(self):
         self.name = "Ajay V Manoj"
         self.role = "Data Analyst / Business Analyst"
-        self.core_skills = ["SQL", "Python", "Tableau", "Agile / Jira", "Advanced Excel"]
-        self.specialization = [
-            "Root Cause Analysis",
-            "Process Optimization",
-            "ETL Pipelines",
-            "Business Requirements (BRD/User Stories)"
-        ]
+        self.core_focus = ["Data-Driven Decision Making", "Process Optimization"]
+        
+    def execute_workflow(self, business_problem):
+        data = self.extract_and_clean_data(pipeline="Python + SQL (ETL)")
+        insights = self.diagnose_root_causes(data)
+        return self.deploy_dashboards_and_agile_solutions(insights)
 
-    def solve_business_problem(self, data, operations):
-        insights = self.analyze(data)
-        workflows = self.optimize_processes(operations)
-        return self.deliver_actionable_value(insights, workflows)
+
