@@ -4,8 +4,6 @@
 </div>
 
 <p align="center">
-  <!-- PROFILE VIEWS BADGE -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <!-- LINKEDIN BADGE -->
   <a href="https://www.linkedin.com/in/ajayvmanoj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
